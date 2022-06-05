@@ -994,7 +994,7 @@
 
 
    
-    local SOMEXHUB = library:AddWindow(" ",Enum.KeyCode.RightControl)
+    local SOMEXHUB = library:AddWindow("Name Hub  ",Enum.KeyCode.RightControl)
     
     local Main = SOMEXHUB:AddTab("Main1","6026568198")
     local Combat = SOMEXHUB:AddTab("Main2","7251993295")
